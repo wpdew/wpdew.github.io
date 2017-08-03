@@ -4,7 +4,7 @@
     <img src="http://www.beadingusa.com/images/AlphabetBlocks4.5/SterlingSilverBlockLetterCH901-F.jpg" width=72 height=72>
   </a>
 
-  <h3 align="center">ci3hmvs</h3>
+  <h3 align="center">Pomerla</h3>
 
   <p align="center">
     Sleek, intuitive, and powerful front-end framework for faster and easier web development.<br />
@@ -52,10 +52,6 @@ Read the [Getting started page](https://moroz.rv.ua) for information on the fram
 Status
 ------------
 [![Latest Stable Version](https://poser.pugx.org/pomerla/ci3hmvs/v/stable)](https://packagist.org/packages/pomerla/ci3hmvs)
-[![Total Downloads](https://poser.pugx.org/pomerla/ci3hmvs/downloads)](https://packagist.org/packages/pomerla/ci3hmvs)
-[![Latest Unstable Version](https://poser.pugx.org/pomerla/ci3hmvs/v/unstable)](https://packagist.org/packages/pomerla/ci3hmvs)
-[![License](https://poser.pugx.org/pomerla/ci3hmvs/license)](https://packagist.org/packages/pomerla/ci3hmvs)
-[![composer.lock](https://poser.pugx.org/pomerla/ci3hmvs/composerlock)](https://packagist.org/packages/pomerla/ci3hmvs)
 
 Demo
 ------------
@@ -71,8 +67,8 @@ Author
 ------------
 <ul>
   <li>Email:admin@moroz.rv.ua</li>
-  <li>Home:<a href="http://moroz.rv.ua/">Demo ci3hmvs</a></li>
-  <li>GitHub:<a href="https://pomerla.github.io">Demo ci3hmvs</a></li>
+  <li>Home:<a href="http://moroz.rv.ua/">moroz.rv.ua</a></li>
+  <li>GitHub:<a href="https://pomerla.github.io">pomerla.github.io</a></li>
 </ul>
 
 Changelog
