@@ -69,6 +69,7 @@ Author
   <li>Email:admin@moroz.rv.ua</li>
   <li>Home:<a href="http://moroz.rv.ua/"> moroz.rv.ua</a></li>
   <li>GitHub:<a href="https://pomerla.github.io"> pomerla.github.io</a></li>
+  <li>GitHub:<a href="https://github.com/pomerla/pomerla.github.io/wiki"> wiki</a></li>
 </ul>
 
 Changelog
