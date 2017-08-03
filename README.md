@@ -1,24 +1,102 @@
-# MyPhpFort
+# Pomerla
+<p align="center">
+  <a href="http://moroz.rv.ua">
+    <img src="http://www.beadingusa.com/images/AlphabetBlocks4.5/SterlingSilverBlockLetterCH901-F.jpg" width=72 height=72>
+  </a>
 
-<b>Это тестовый проект для пробы установки через композер.....</b><br />
-<b>This is a test project for the installation through a compositor</b>
+  <h3 align="center">ci3hmvs</h3>
 
+  <p align="center">
+    Sleek, intuitive, and powerful front-end framework for faster and easier web development.<br />
+	<strong>Not a working version of the system under development.</strong><br />
+<strong>Не рабочий вариант системы в стадии разработки.</strong>
+    <br>
+    <a href="http://moroz.rv.ua"><strong>Explore ci3hmvs docs &raquo;</strong></a>
+    <br>
+    <br>
+    <a href="http://moroz.rv.ua">ci3hmvs Themes</a>
+    &middot;
+    <a href="http://moroz.rv.ua">Aleksander Moroz</a>
+    &middot;
+    <a href="http://moroz.rv.ua">Blog</a>
+  </p>
+</p>
 
-Release Information
+<br>
 
-Changelog and New Features
+## Table of contents
 
-Server Requirements
+- [Quick start](#quick-start)
+- [Status](#status)
+- [What's included](#whats-included)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [Community](#community)
+- [Versioning](#versioning)
+- [Creators](#creators)
+- [Copyright and license](#copyright-and-license)
 
-PHP version 5.6 or newer is recommended.
+## Quick start
+
+Several quick start options are available:
+
+- [Download the latest release.](https://github.com/pomerla/ci3hmvs)
+- Clone 
+
+Read the [Getting started page](https://moroz.rv.ua) for information on the framework contents, templates and examples, and more.
+
+<strong>Not a working version of the system under development.</strong><br />
+<strong>Не рабочий вариант системы в стадии разработки.</strong>
+
+Status
+------------
+[![Latest Stable Version](https://poser.pugx.org/pomerla/ci3hmvs/v/stable)](https://packagist.org/packages/pomerla/ci3hmvs)
+[![Total Downloads](https://poser.pugx.org/pomerla/ci3hmvs/downloads)](https://packagist.org/packages/pomerla/ci3hmvs)
+[![Latest Unstable Version](https://poser.pugx.org/pomerla/ci3hmvs/v/unstable)](https://packagist.org/packages/pomerla/ci3hmvs)
+[![License](https://poser.pugx.org/pomerla/ci3hmvs/license)](https://packagist.org/packages/pomerla/ci3hmvs)
+[![composer.lock](https://poser.pugx.org/pomerla/ci3hmvs/composerlock)](https://packagist.org/packages/pomerla/ci3hmvs)
+
+Demo
+------------
+<a>Demo ci3hmvs</a><br />
+
+Requirements
+------------
+<ul>
+  <li>MySQL for the main data store</li>
+</ul>
+
+Author
+------------
+<ul>
+  <li>Email:admin@moroz.rv.ua</li>
+  <li>Home:<a href="http://moroz.rv.ua/">Demo ci3hmvs</a></li>
+  <li>GitHub:<a href="https://pomerla.github.io">Demo ci3hmvs</a></li>
+</ul>
+
+Changelog
+------------
+<ul>
+  <li><a href="https://github.com/pomerla/pomerla.github.io/releases">releases</a></li>
+</ul>
+
 
 Installation
+------------
 
-License
+The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
-Please see the license agreement.
+Either run
 
-Resources
+```
+composer create-project pomerla/ci3hmvs
+```
 
-Acknowledgement
+After installation correct 
+```
+config.php for work with the database.
+```
+
+backup mysql файл mysql_backup.sql add to your database.
 
